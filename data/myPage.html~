@@ -1,0 +1,14 @@
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</head>
+
+<body>
+<ul id=tabs>
+</ul>
+
+<button id="myButton">Click me!</button>
+</body>
+
+
+</html>
